@@ -1,0 +1,6 @@
+{
+  "name": "Worker Production Management System",
+  "description": "Production-ready, mobile-first Worker Production Management System with real-time sync, Excel-style monthly register, piece rates, month locking, OTP-protected zero system, PDF reports, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
